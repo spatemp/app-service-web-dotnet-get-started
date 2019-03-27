@@ -6,7 +6,6 @@ using System.Web.Mvc;
 
 namespace aspnet_get_started.Controllers
 {
-    /* added a comment */
     public class HomeController : Controller
     {
         public ActionResult Index()
